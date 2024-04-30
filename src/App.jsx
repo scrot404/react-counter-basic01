@@ -14,12 +14,12 @@ function App() {
         </button>
 
       </div>
-{/* 
+
       <div class="flex flex-row bg-red-500 ">
       <div class="basis-1/4">01</div>
       <div class="basis-1/4">02</div>
       <div class="basis-1/2">03</div>
-      </div> */}
+      </div>
       <h1>Soumaadeep</h1>
     </>
   )
